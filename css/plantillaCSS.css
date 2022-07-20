@@ -1,0 +1,18 @@
+:root{
+    /*Aqui podemos crear variables para el css, solo hay que escribirlas asi...*/
+    --primary-color:#003476;
+    /*podemos agregar mas, abreviarlas o modificar, pero este es la idea*/
+    --secundar-color:#b4d2f7;
+    /*abreviado podriamos ponerle algo asi...*/
+    --sc:#b4d2f7;
+    /*tambien podemos agregar mas cosas*/
+    --fz: 1.8rem;/*font-zise*/
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 62.5%;
+}
