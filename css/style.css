@@ -1,6 +1,82 @@
 html{
 
 }
+#alt{
+    font-size:1.0rem;
+
+}
+#cabecera{
+    background-color: rgb(188, 163, 212);
+}
+#cabecera h1, h2, img, p{
+    font-size: 1.8rem;
+    text-align: center;
+    align-content: center;
+    padding: 2%;
+}
+#cabecera h1{
+    font-size: 1.8rem;
+}
+
+#cabecera h2{
+    font-size: 1.7rem;
+}
+#cabecera p{
+    font-size: 1.5rem;
+}
+
+.medio ul li a, h3, figure img, a{
+    font-size: 1.8rem;
+    text-align: center;
+    align-content: center;
+    padding: 2%; 
+}
+.medio h3{
+    font-size: 1.6rem;
+}
+.medio ul li a{
+    font-size: 1.5rem;
+}
+
+.oferta span, figure img, h1, div, p{
+    align-content: center;
+    text-align: center;
+}
+.oferta h1{
+    font-size: 1.8rem;
+}
+.oferta p, a, p a{
+    font-size: 1.5rem;
+}
+
+.referencias figure img, p, h2, span{
+    text-align: center;
+    align-content: center;
+}
+
+.referencias h2{
+    font-size: 1.7rem;
+}
+.referencias h3{
+    font-size: 1.6rem;
+}
+.referencias p{
+    font-size: 1.5rem;
+}
+
+#preFooter{
+    background-color: black;
+    color: white;
+    font-size: 1.5rem;
+}
+
+footer{
+    background-color: white;
+}
+
 section{
     background-color: antiquewhite;
+}
+article{
+    background-color: rgb(128, 169, 169);
 }
